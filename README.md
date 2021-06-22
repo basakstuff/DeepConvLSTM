@@ -1,1 +1,7 @@
-# DeepConvLSTM
+# Abstract
+
+Human activity recognition aims to classify a person's actions by a series of measurements captured by sensors. As a result, it bases the development of many potential applications, especially in health and sports fields. In the last 25 years, a growing field of research has been formed in the field of recognition of human activities. The human activity recognition problem is beginning to adopt deep learning instead of deep-rooted analysis techniques based on handmade feature extraction and classification techniques.
+
+In this thesis, meticulously researched the hybrid model of convoluted and recurrent architectures in the OPPORTUNITY dataset, which includes motion data captured by wearable sensors. How to train recurrent approaches with these models, the effect of hyper-parameters used on model performance, and the success of hybrid models in recognizing human activity are under the lens. This thesis presents the performance, advantages, and limitations of hybrid models. This study not only compares hybrid models, but also highlights the significant advantages of models.
+
+Based on these assessments, the best deep learning model and parameter selection strategies were found to separate movements of the same type. These strategies include convolutional and recurrent neural networks for trait learning and classification. Significant differences have been obtained between alternatives for different types of motion, indicating the need for feature extraction and classification modules to be adapted to each type of motion. In the OPPORTUNITY dataset, the best results reported a 91.8% and 88% F-score, respectively, for non-competitive movements and postures.
